@@ -1,4 +1,4 @@
-<b>Hello world!</b>
+<b>THREE COMPANY - Sobre nós!</b>
 
 #
 A Three Company é uma solução desenvolvida com o objetivo de conectar empresas contratantes a prestadoras de serviços de forma mais eficiente e segura. A plataforma visa resolver uma carência no mercado de terceirização, onde as empresas muitas vezes enfrentam dificuldades para encontrar fornecedores confiáveis e bem avaliados.
